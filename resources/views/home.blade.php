@@ -406,7 +406,7 @@
 
 <body class="antialiased">
 
-    <h1>Primi passi</h1>
+    <h1>{{ $title }}</h1>
 
 </body>
 
