@@ -84,12 +84,12 @@
             display: flex
         }
 
-        .grid {
-            display: grid
-        }
-
         .gap {
             gap: 1rem
+        }
+
+        .grid {
+            display: grid
         }
 
         .hidden {
